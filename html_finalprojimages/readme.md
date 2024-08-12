@@ -15,3 +15,4 @@ A directory for images, along with a Readme.md
 ![bullet](https://github.com/user-attachments/assets/58e0d55c-1170-473a-b94d-59d6e5b38a29)
 ![waving-hand](https://github.com/user-attachments/assets/476fc7f2-8ee0-4019-a887-409d6d57abc0)
 ![react](https://github.com/user-attachments/assets/5c5ef444-42e5-40eb-8bf8-e292b2676c2e)
+![phone](https://github.com/user-attachments/assets/a2d740fd-5c1b-4358-9a4a-26e485c4e14b)
